@@ -1,7 +1,7 @@
 package fakeStoreApi.questions.user;
 
-import com.fakeStoreApi.models.user.UserModelPut;
-import com.fakeStoreApi.utils.user.Data;
+import fakeStoreApi.models.user.UserModelPut;
+import fakeStoreApi.utils.user.Data;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 

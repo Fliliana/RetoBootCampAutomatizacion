@@ -1,8 +1,8 @@
 package fakeStoreApi.task.user;
 
-import com.fakeStoreApi.models.user.UserModelPost;
-import com.fakeStoreApi.questions.user.BuildDataUser;
-import com.fakeStoreApi.utils.user.Data;
+import fakeStoreApi.models.user.UserModelPost;
+import fakeStoreApi.questions.user.BuildDataUser;
+import fakeStoreApi.utils.user.Data;
 import io.restassured.http.ContentType;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;

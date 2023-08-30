@@ -1,7 +1,7 @@
 package fakeStoreApi.stepDefinitions;
 
 
-import com.fakeStoreApi.task.user.PostUserTask;
+import fakeStoreApi.task.user.PostUserTask;
 import io.cucumber.java.Before;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;

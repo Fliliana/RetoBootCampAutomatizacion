@@ -1,8 +1,8 @@
 package fakeStoreApi.stepDefinitions;
 
-
-import com.fakeStoreApi.questions.user.BuildDataUserPut;
-import com.fakeStoreApi.task.user.DeleteUserTask;
+import fakeStoreApi.questions.user.BuildDataUserPut;
+import fakeStoreApi.task.user.DeleteUserTask;
+import fakeStoreApi.utils.user.Data;
 import io.cucumber.java.Before;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
